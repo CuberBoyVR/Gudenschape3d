@@ -1,0 +1,115 @@
+{
+  "colors": [
+    { "id": "black",  "name": "Black",  "hex": "#1a1a1a" },
+    { "id": "white",  "name": "White",  "hex": "#f5f5f5" },
+    { "id": "red",    "name": "Red",    "hex": "#e63939" },
+    { "id": "blue",   "name": "Blue",   "hex": "#2b6cb0" },
+    { "id": "green",  "name": "Green",  "hex": "#2f9e44" },
+    { "id": "orange", "name": "Orange", "hex": "#f76707" },
+    { "id": "yellow", "name": "Yellow", "hex": "#f59f00" },
+    { "id": "purple", "name": "Purple", "hex": "#9c36b5" },
+    { "id": "gray",   "name": "Gray",   "hex": "#868e96" },
+    { "id": "pink",   "name": "Pink",   "hex": "#e64980" },
+    { "id": "teal",   "name": "Teal",   "hex": "#12b886" },
+    { "id": "gold",   "name": "Gold",   "hex": "#e6a817" }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Modular Desk Organizer",
+      "category": "functional",
+      "categoryLabel": "Functional",
+      "price": 24.00,
+      "emoji": "🗂️",
+      "image": "",
+      "description": "Stackable trays + pen holder. Fits most desks. Printed in durable PETG.",
+      "badge": null,
+      "colors": ["black", "white", "red", "blue", "green", "orange", "yellow", "purple", "gray", "pink", "teal", "gold"]
+    },
+    {
+      "id": 2,
+      "title": "Dragon Miniature (28mm)",
+      "category": "miniatures",
+      "categoryLabel": "Miniatures",
+      "price": 18.50,
+      "emoji": "🐉",
+      "image": "",
+      "description": "Highly detailed tabletop dragon. Supports included. Great for painting.",
+      "badge": "Popular",
+      "colors": ["black", "white", "red", "blue", "green", "gray", "gold"]
+    },
+    {
+      "id": 3,
+      "title": "Geometric Plant Pot",
+      "category": "home",
+      "categoryLabel": "Home & Decor",
+      "price": 22.00,
+      "emoji": "🪴",
+      "image": "",
+      "description": "Modern faceted design. Drainage hole included. Perfect for small plants.",
+      "badge": null,
+      "colors": ["black", "white", "red", "blue", "green", "orange", "yellow", "purple", "gray", "pink", "teal", "gold"]
+    },
+    {
+      "id": 4,
+      "title": "Phone Stand Pro",
+      "category": "gadgets",
+      "categoryLabel": "Gadgets",
+      "price": 14.00,
+      "emoji": "📱",
+      "image": "",
+      "description": "Adjustable angle, cable management slot. Works with all phones.",
+      "badge": null,
+      "colors": ["black", "white", "gray", "blue", "red", "teal"]
+    },
+    {
+      "id": 5,
+      "title": "Cable Management Clips (6-pack)",
+      "category": "functional",
+      "categoryLabel": "Functional",
+      "price": 9.50,
+      "emoji": "🔌",
+      "image": "",
+      "description": "Adhesive-ready clips for clean desk setups. Strong hold.",
+      "badge": "New",
+      "colors": ["black", "white", "gray"]
+    },
+    {
+      "id": 6,
+      "title": "Sci-Fi Terrain Set",
+      "category": "miniatures",
+      "categoryLabel": "Miniatures",
+      "price": 32.00,
+      "emoji": "🏙️",
+      "image": "",
+      "description": "Three modular pieces for 28–32mm games. Highly detailed.",
+      "badge": null,
+      "colors": ["black", "gray", "white", "blue", "purple"]
+    },
+    {
+      "id": 7,
+      "title": "Minimalist Wall Hook",
+      "category": "home",
+      "categoryLabel": "Home & Decor",
+      "price": 11.00,
+      "emoji": "🪝",
+      "image": "",
+      "description": "Strong & simple. Holds up to 5 kg. Clean modern look.",
+      "badge": null,
+      "colors": ["black", "white", "red", "blue", "green", "orange", "yellow", "purple", "gray", "pink", "teal", "gold"]
+    },
+    {
+      "id": 8,
+      "title": "Controller Stand",
+      "category": "gadgets",
+      "categoryLabel": "Gadgets",
+      "price": 16.50,
+      "emoji": "🎮",
+      "image": "",
+      "description": "Holds dual controllers + headset hook. Stable base.",
+      "badge": null,
+      "colors": ["black", "white", "red", "blue", "gray"]
+    }
+  ]
+}
